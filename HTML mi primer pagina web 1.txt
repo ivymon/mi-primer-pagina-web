@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+<TITLE> MI SITIO WEB </TITLE>
+
+</HEAD>
+
+<BODY LEFTMARGIN = "30" BGCOLOR = "PINK">
+<H1><CENTER><FONT COLOR = "RED">MI PRIMER PAGINA WEB </FONT></CENTER></H1>
+<H2><CENTER><FONT COLOR = "PURPLE">INTRODUCCION </FONT></CENTER></H2>
+
+<HR>
+
+<P><CENTER><FONT COLOR = "RED">Esta es mi primer pagina, aunque todavia es muy sencilla. <BR> Como es lenguaje HTML no es dificil,
+   pronto estare en condiciones de hacer cosas mas interesantes.</FONT> 
+   </p>
+
+
+<P><FONT COLOR = "BLACK">HTML se compone de una serie de comandos que son interpretados por el visualizador, o programa que
+   utilizamos para navegar por la <B>  <FONT COLOR = "BLUE"> www. </FONT> </B> </FONT>
+   </P>
+ 
+<P>En ultima instancia es el visualizador es el que ejecuta todas las ordenes contenidas en <I> codigo HTML </I>
+   </P> </FONT>
+
+<P> <FONT COLOR = "WHITE"> Algunos elementos a considerar dentro de HTML son los siguientes: <BR>
+<OL> 
+<LI> Etiqueta </LI>
+<LI> Enlaces </LI>
+<LI> listas ordenadas </LI>
+
+</OL>
+</P>
+
+<P> HTML nos permite adicionalmente incluir otros elementos tales como: <BR>
+<UL>
+<LI> Imagenes </LI>
+<LI> Hipervinculos </LI>
+<LI> Tablas </LI>
+<LI> Videos </LI>
+<LI> Audio </LI>
+</P>
+
+</BODY>
+
+
+
+
+
+
+
+
+
+</HTML>
+
